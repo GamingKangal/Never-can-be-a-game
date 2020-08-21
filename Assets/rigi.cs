@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class rigi : MonoBehaviour
-public class NewBehaviourScript : MonoBehaviour
+
 {
 
     public float speed;
